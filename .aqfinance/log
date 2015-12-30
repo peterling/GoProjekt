@@ -1,0 +1,179 @@
+4:2015/12/23 10-49-13:gwen(3240):plugindescr.c:   76: Plugin has no I18N domain, using GWEN
+3:2015/12/23 10-49-14:aqbanking(3240):banking_online.c:  650: Could not init provider "aqebics"
+4:2015/12/23 10-49-14:aqbanking(3240):banking_init.c:  476: Could not load backend "aqebics", ignoring
+3:2015/12/23 10-49-14:aqfinance(3240):ff_app.cpp:  481: No AppSpecs found for type [pdfViewer]
+5:2015/12/23 10-49-14:aqfinance(3240):ff_app.cpp:  304: Writing appspec file [C:\Users\Peter\.aqfinance\appspecs\pdfViewer\Windows%20Generic%20Document%20Starter.conf]
+3:2015/12/23 10-49-14:aqfinance(3240):ff_app.cpp:  481: No AppSpecs found for type [emailClient]
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon bankaccount" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\bankaccount.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon closetab" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfoxext\icons\closetab.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon minifolderopen" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfoxext\icons\minifolderopen.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon minifolder" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfoxext\icons\minifolder.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon account" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\account.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon partners" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\partners.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon transfers" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\transfers.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon business" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\business.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon billed_full" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\billed_full.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon billed_partial" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\billed_partial.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon empty16x16" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\empty16x16.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon delivered_full" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\delivered_full.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon delivered_part" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\delivered_part.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon paid_full" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\paid_full.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon paid_partial" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\paid_partial.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon reminded" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\reminded.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon urgent" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\urgent.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon doc24x24" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\doc24x24.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon van24x24" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\van24x24.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon coin24x24" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\coin24x24.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon bill24x24" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\bill24x24.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon payment24x24" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\payment24x24.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon booked_full" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\booked_full.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon booked_partial" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\booked_partial.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon mailappt" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\mailappt.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon pdf" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\pdf.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon fileprint" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfoxext\icons\fileprint.png"
+3:2015/12/23 10-49-15:aqfinance(3240):fxx_app.cpp:  271: Path for icon outbox" is "C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\icons\outbox.png"
+3:2015/12/23 10-49-20:gwen(3240):urlfns.c:   65: No server or path given in url ""
+3:2015/12/23 10-49-20:aqfinance(3240):ff_setupwiz_db.cpp:  176: Bad URL, assuming default
+3:2015/12/23 10-49-20:aqfinance(3240):ff_setupwiz_db.cpp:  115: Entry 0 selected
+3:2015/12/23 10-49-20:aqfinance(3240):ff_setupwiz_accounts.cpp:  283: Trying [C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\accounts\de_DE\00-basic_accounts.xml]
+3:2015/12/23 10-49-20:aqfinance(3240):ff_setupwiz_accounts.cpp:  286: Found [C:\PROGRA~2\AQFINA~1\program\initial\share\aqfinance\accounts\de_DE\00-basic_accounts.xml]
+3:2015/12/23 10-49-20:aqfinance(3240):ff_setupwiz_bank.cpp:  185: No bank accounts
+3:2015/12/23 10-49-21:aqfinance(3240):ff_setupwiz_db.cpp:  149: Empty path
+3:2015/12/23 10-49-51:aqfinance(3240):ff_setupwiz_currency.cpp:  189: No currency selected
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  772: Creating DB [dir://C:\aqfin]
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  713: Opening DB [dir://C:\aqfin]
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  728: Setting cache with 10000 entries and 10 MB size
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\idcounter.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 1 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 1 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 1 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\commodity.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 2 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 2 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 2 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\account.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 3 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 3 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 3 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\transaction.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 4 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 4 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 4 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\split.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 5 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 5 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 5 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\bankaccount.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 6 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 6 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 6 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\address.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 7 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 7 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 7 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\partner.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 8 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 8 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 8 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\task.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 10 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 10 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 10 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\job.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 11 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 11 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 11 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\item.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 13 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 13 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 13 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\bankstatement.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 14 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 14 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 14 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\banktransfer.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 15 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 15 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 15 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\bankdebitnote.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 16 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 16 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 16 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\bankaccountgroup.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 17 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 17 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 17 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\banktransferplanned.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 18 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 18 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 18 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\banktransfertemplate.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 19 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 19 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 19 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\banktransfergroup.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 20 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 20 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 20 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\bookedbalance.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 21 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 21 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 21 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\notedbalance.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 22 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 22 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 22 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\rule.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 23 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 23 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 23 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\partnergroup.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 24 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 24 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 24 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\partnerrule.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 25 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 25 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 25 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\tax.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 26 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 26 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 26 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\taxgroup.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 27 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 27 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 27 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\itemtemplates.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 28 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 28 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 28 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\itemtemplategroup.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 29 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 29 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 29 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\accountbalance.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 30 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 30 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 30 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\standingorder.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 31 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 31 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 31 is now open
+3:2015/12/23 10-50-11:aqdatabase(3240):table.c: 1109: Error opening file [C:\aqfin\storecurrence.table]: No such file or directory
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  684: Table 32 does not exist, creating
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  687:   Retrying to open table 32 after creating it
+3:2015/12/23 10-50-11:aqfinance(3240):mainwindow.cpp:  694:   Ok, table 32 is now open
+3:2015/12/23 10-50-35:gwen(3240):fox16_gui.cpp:  507: Empty filename returned.
+3:2015/12/23 10-50-35:aqhbci(3240):dlg_newkeyfile.c: 1302: here (-2)
+3:2015/12/23 10-50-45:aqfinance(3240):ff_settings.cpp:  277: Cancel
+3:2015/12/23 10-50-45:aqfinance(3240):ff_settings.cpp:  302: Result: 0
+3:2015/12/23 10-50-51:aqfinance(3240):dlg_pintan.c: 1069: Activated: wiz_next_button
+3:2015/12/23 10-50-55:aqfinance(3240):dlg_pintan.c: 1069: Activated: wiz_abort_button
+3:2015/12/23 10-58-30:aqfinance(3240):af_update.c:  242: Using URL: [http://update1.aqbanking.de/aqfinance-win32-i586-0]
+3:2015/12/23 11-00-01:aqfinance(3240):ff_askupdate.cpp:  135: Cancel
+3:2015/12/23 11-00-21:aqfinance(3240):af_update.c:  242: Using URL: [http://update1.aqbanking.de/aqfinance-win32-i586-0]
+3:2015/12/23 11-01-39:aqfinance(3240):af_update.c:  498: Downloading [http://update1.aqbanking.de/aqfinance-win32-i586-0.9.156.0-1.sar.gz]
+3:2015/12/23 11-02-25:aqfinance(3240):mainwindow.cpp: 1123: Close
+3:2015/12/23 11-02-25:aqfinance(3240):mainwindow.cpp:  805: Closing DB
+5:2015/12/23 11-02-25:aqdatabase(3240):aqdb_cache.c:  155: Cache usage: 0 MB, 153 Entries; Hits: 0, Misses: 153
+3:2015/12/23 11-02-25:aqfinance(3240):mainwindow.cpp: 1278: Closing configuration
