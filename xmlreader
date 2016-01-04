@@ -10,8 +10,9 @@ import (
 )
 type XMLStrap struct {
     XMLName  xml.Name `xml:"Eintrag"`
-    Key      string   `xml:"key,attr"`
-    Value    string   `xml:"value,attr"`
+    Titel      string   `xml:"Titel,attr"`
+    Befehl    string   `xml:"Befehl,attr"`
+	Parameter string	`xml:"Parameter,attr"`
 }
 
 type XMLStraps struct {
@@ -65,15 +66,15 @@ func main() {
     }
 
     // Display The first strap
-    fmt.Printf("Key: %s  Value: %s", xmlStraps[0].Key, xmlStraps[0].Value)
-	fmt.Printf("Key: %s  Value: %s", xmlStraps[1].Key, xmlStraps[1].Value)
+    fmt.Printf("Key: %s  Value: %s", xmlStraps[0].Titel, xmlStraps[0].Befehl)
+	fmt.Printf("Key: %s  Value: %s", xmlStraps[1].Titel, xmlStraps[1].Befehl)
 	if proc, err := Start("ping", "-4", "www.google.com"); err == nil {
 		proc.Wait()
 	}
 	if proc, err := Start("ping","8.8.8.8"); err == nil {
 		proc.Wait()
 	}
-	if proc, err := Start(xmlStraps[0].Value); err == nil {
+	if proc, err := Start(xmlStraps[0].Befehl, xmlStraps[0].Parameter); err == nil {
 		proc.Wait()
 	}
 	
