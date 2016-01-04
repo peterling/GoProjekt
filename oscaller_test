@@ -1,0 +1,16 @@
+package main
+
+import (
+	"testing"
+)
+func TestXMLLaden(t *testing.T) {
+	t.Log("Rolling all gutter balls... (expected score: 0)")
+	strapsFilePath, err := filepath.Abs("config.xml")
+	file, err := os.Open(strapsFilePath)
+	xmlStraps, err := ReadStraps(file)
+	xmlStraps[0].Titel
+	
+	if /*xmlStraps[0] := xmlStraps[0]*/; xmlStraps != 0 {
+		t.Errorf("Expected score of 0, but it was %d instead.", score)
+	}
+}
