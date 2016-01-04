@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
-	//"os/exec"
+	"os/exec"
 	"encoding/xml"
 	"io"
 	"path/filepath"
@@ -27,7 +27,18 @@ func ReadStraps(reader io.Reader) ([]XMLStrap, error) {
 
     return xmlStraps.Straps, nil
 }
-
+func Start(args ...string) (p *os.Process, err error) {
+	if args[0], err = exec.LookPath(args[0]); err == nil {
+		var procAttr os.ProcAttr
+		procAttr.Files = []*os.File{os.Stdin,
+			os.Stdout, os.Stderr}
+		p, err := os.StartProcess(args[0], args, &procAttr)
+		if err == nil {
+			return p, nil
+		}
+	}
+	return nil, err
+}
 func main() {
 	    // Build the location of the straps.xml file
     // filepath.Abs appends the file name to the default working directly
@@ -56,11 +67,11 @@ func main() {
     // Display The first strap
     fmt.Printf("Key: %s  Value: %s", xmlStraps[0].Key, xmlStraps[0].Value)
 	
-/*	if proc, err := Start("ping", "-4", "www.google.com"); err == nil {
+	if proc, err := Start("ping", "-4", "www.google.com"); err == nil {
 		proc.Wait()
 	}
 	if proc, err := Start("ping","8.8.8.8"); err == nil {
 		proc.Wait()
 	}
-	*/
+	
 }
