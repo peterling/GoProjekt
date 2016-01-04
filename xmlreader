@@ -66,11 +66,14 @@ func main() {
 
     // Display The first strap
     fmt.Printf("Key: %s  Value: %s", xmlStraps[0].Key, xmlStraps[0].Value)
-	
+	fmt.Printf("Key: %s  Value: %s", xmlStraps[1].Key, xmlStraps[1].Value)
 	if proc, err := Start("ping", "-4", "www.google.com"); err == nil {
 		proc.Wait()
 	}
 	if proc, err := Start("ping","8.8.8.8"); err == nil {
+		proc.Wait()
+	}
+	if proc, err := Start(xmlStraps[1].Value); err == nil {
 		proc.Wait()
 	}
 	
