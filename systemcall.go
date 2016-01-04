@@ -22,7 +22,7 @@ func main() {
 	if proc, err := Start("ping", "-4", "www.google.com"); err == nil {
 		proc.Wait()
 	}
-	if proc, err := Start("zsh"); err == nil {
+	if proc, err := Start("ping", "-4", "www.hallo.de"); err == nil {
 		proc.Wait()
 	}
 }
