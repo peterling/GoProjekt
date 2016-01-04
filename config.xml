@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Programme>
-    <Eintrag key="googleping" value="ping google.de" />
-    <Eintrag key="commandprompt" value="cmd" />
+    <Eintrag Titel="googleping" Befehl="ping" Parameter="8.8.8.8"/>
+    <Eintrag Titel="commandprompt" Befehl="cmd" Parameter="8.8.8.8"/>
 </Programme>
