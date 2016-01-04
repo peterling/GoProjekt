@@ -42,7 +42,7 @@ func Start(args ...string) (p *os.Process, err error) {
 func main() {
 	    // Build the location of the straps.xml file
     // filepath.Abs appends the file name to the default working directly
-    strapsFilePath, err := filepath.Abs("straps.xml")
+    strapsFilePath, err := filepath.Abs("config.xml")
     if err != nil {
         fmt.Println(err)
         os.Exit(1)
@@ -73,7 +73,7 @@ func main() {
 	if proc, err := Start("ping","8.8.8.8"); err == nil {
 		proc.Wait()
 	}
-	if proc, err := Start(xmlStraps[1].Value); err == nil {
+	if proc, err := Start(xmlStraps[0].Value); err == nil {
 		proc.Wait()
 	}
 	
